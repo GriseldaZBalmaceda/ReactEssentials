@@ -8,7 +8,7 @@ export default defineConfig({
     // Output directory for the build
     outDir: "dist",
     // Specify public base path for assets
-    base: "./",
+    base: "/ReactEssentials/",
     // Enable sourcemap generation for debugging
     sourcemap: true,
     // Additional build options as needed
