@@ -1,4 +1,5 @@
 //its better to import images. it will include an automatically generated path that will also work once you deploy the react app to the server. best practice 🫥
+import React from "react"
 import reactImg from "../../assets/react-core-concepts.png"
 import "./Header.css"
 export default function Header() {
